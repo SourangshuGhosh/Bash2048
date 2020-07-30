@@ -21,3 +21,10 @@ The game is won when a tile with a value of 2048 appears on the board, hence the
 
 The simple gameplay mechanics (just four directions) allowed it to be used in a promo video for the Myo gesture control armband,and the availability of the code underneath allowed it to be used as a teaching aid for programming; the second-place winner of a coding contest at Matlab Central Exchange was an AI system that would play 2048 on its own.
 
+## License :
+
+The Code is Released under the MIT License by Sourangshu Ghosh
+
+## Author: 
+
+Sourangshu Ghosh
